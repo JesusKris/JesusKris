@@ -4,7 +4,7 @@
 
 # Hi there 👋
 
-### I am **Robert Kris Laur** studying Software Development full time @ [kood/Jõhvi](https://kood.tech/). So far it has been an emotional roller coaster but for the most part I have been loving it! Exited for what the future holds.
+### I am *Robert Kris Laur* studying Software Development full time @ [kood/Jõhvi](https://kood.tech/). So far it has been an emotional roller coaster but for the most part I have been loving it! Exited for what the future holds.
 
 #### (Currently not very active on Github due to school using a different source control!)
 
@@ -71,4 +71,5 @@
  # Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JesusKris&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
