@@ -11,9 +11,9 @@
 ---
 - 💻 Started studying Software Development **2021 summer**
 
-- 🔭 I’m currently working on **Bomberman game**
+- 🔭 I’m currently working on **Mobile Apps**
 
-- 🌱 I’m currently learning **JavaScript and Rust**
+- 🌱 I’m currently learning **Dart & Flutter**
 
 - ⚡ Favorite quote: **"Hard work beats talented people who don't want to work hard"**
 
