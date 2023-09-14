@@ -14,7 +14,7 @@
 
 - ⚡ Favorite quote: **"Hard work beats talent when talent doesn't work hard"**
 # Technologies
-*Most of my projects are not publicly available due to them being the property of [kood/Jõhvi](https://kood.tech/). If you want to see them, request access. Thanks!*
+*Most of my projects are not publicly available due to them being a property of [kood/Jõhvi](https://kood.tech/). If you want to see them, request access. Thanks!*
 
 ## Proficient
 
