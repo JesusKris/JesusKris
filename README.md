@@ -34,7 +34,7 @@
 
 
 ## Inexperienced
-*Technologies, In which, I may not consider myself highly proficient or entirely confident in them. I've either built projects or experimented with them.*
+*Technologies, in which, I may not consider myself highly proficient or entirely confident in them. I've either built projects or experimented with them.*
 
 <p align="left">
      <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" title="Kubernetes" width="40" height="40"/> </a> 
