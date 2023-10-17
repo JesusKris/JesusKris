@@ -38,7 +38,7 @@ I am Robert Kris Laur, Full-Stack Developer, Cloud DevOps Engineer and a fresh g
 *Technologies, in which, I may not consider myself highly proficient or entirely confident in them. I've either built projects or experimented with them.*
 
 <p align="left">
-    <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" title="aws" width="40" height="40"/> </a>
+    <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="aws" width="40" height="40"/> </a>
      <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" title="Kubernetes" width="40" height="40"/> </a> 
     <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" title="Gitlab" width="40" height="40"/> </a> 
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" title="Terraform" width="40" height="40"/> </a> 
