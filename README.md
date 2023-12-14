@@ -1,5 +1,5 @@
 <p align="left">
-<a href="https://linkedin.com/in/robertkrislaur" target="blank"><image align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robertkrislaur" height="25" width="35" /></a>
+<a href="https://linkedin.com/in/robertkrislaur" target="blank"><image align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" width="35" /></a>
 </p>
 
 # Hi there 👋
