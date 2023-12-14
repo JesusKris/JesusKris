@@ -1,5 +1,5 @@
 <p align="left">
-<a href="https://linkedin.com/in/robertkrislaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robertkrislaur" height="25" width="35" /></a>
+<a href="https://linkedin.com/in/robertkrislaur" target="blank"><image align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robertkrislaur" height="25" width="35" /></a>
 </p>
 
 # Hi there 👋
@@ -29,7 +29,7 @@ I am Robert Kris Laur, Full-Stack Developer, Cloud DevOps Engineer and a fresh g
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/> </a> 
     <a href="https://www.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google" title="Googling.." width="40" height="40"/> </a> 
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="aws" width="40" height="40"/> </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" title="AWS" width="40" height="40"/> </a>
  </a>
 </p>
 
