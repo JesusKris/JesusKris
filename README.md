@@ -53,3 +53,38 @@ I am Robert Kris Laur, Full-Stack Developer, Cloud DevOps Engineer and a fresh g
     <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" title="Sequelize.js" width="40" height="40"/> </a>
 </p>
 
+# Projects
+
+## ⭐Check these out
+- [discord-bot](https://github.com/JesusKris/discord-bot) - My first ever real prod application, a Discord bot
+- [gitlab-pipelines](https://github.com/JesusKris/gitlab-pipelines) - Self hosted Gitlab CI/CD pipelines for a kubernetes microservice architecture, hosted on AWS
+- [bomberman](https://github.com/JesusKris/bomberman) - Recreation of a famous game called Bomberman using my own frontend framework
+- [web-framework](https://github.com/JesusKris/web-framework) - Simple and lightweight frontend framework called Mist.js
+- [vue-forum](https://github.com/JesusKris/vue-forum) - A forum created using Vue.js with users, posts, groups and websockets
+- [file-binder](https://github.com/JesusKris/file-binder) - A simple binary executables file binder
+
+## 👷DevOps
+- [gitlab-pipelines](https://github.com/JesusKris/gitlab-pipelines)
+- [cloud-microservice-architecture](https://github.com/JesusKris/cloud-microservice-architecture)
+- [kubernetes-microservice-architecture](https://github.com/JesusKris/kubernetes-microservice-architecture)
+- [docker-microservice-architecture](https://github.com/JesusKris/docker-microservice-architecture)
+- [vagrant-microservice-architecture](https://github.com/JesusKris/vagrant-microservice-architecture)
+- [cisco-packet-tracker](https://github.com/JesusKris/cisco-packet-tracker)
+
+## 👨‍💻Backend Development
+- [discord-bot](https://github.com/JesusKris/discord-bot)
+- [file-binder](https://github.com/JesusKris/file-binder)
+- [atm-system](https://github.com/JesusKris/atm-system)
+- [smart-intersection](https://github.com/JesusKris/smart-intersection)
+- [port-scanner](https://github.com/JesusKris/port-scanner)
+
+## 🌐Web Development
+- [web-framework](https://github.com/JesusKris/web-framework)
+- [vue-forum](https://github.com/JesusKris/vue-forum)
+- [graphql-charts](https://github.com/JesusKris/graphql-charts)
+- [golang-forum](https://github.com/JesusKris/golang-forum)
+- [ascii-art-generator](https://github.com/JesusKris/ascii-art-generator)
+
+## 🕹️Game Development
+- [bomberman](https://github.com/JesusKris/bomberman)
+- [brick-breaker](https://github.com/JesusKris/brick-breaker)
