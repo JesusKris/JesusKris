@@ -9,7 +9,7 @@ I am Robert Kris Laur, Full-Stack Developer, Cloud DevOps Engineer and a fresh g
 ---
 - 💻 Started studying Software Development **2021 summer**
 
-- 🔭 I’m currently working on **finding a job**
+- 🔭 I’m currently working as Full Stack Developer
 
 - 🌱 I’m currently learning **AWS Services**
 
