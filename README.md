@@ -7,7 +7,7 @@
 I am Robert Kris Laur, a Full-Stack Developer & Cloud DevOps Engineer.
 
 ---
-- 💻 Started Software Development journey **2021 summer**
+- 💻 Started Software Development career **2021 summer**
 
 - 🔭 I’m currently working as Full Stack Developer
 
