@@ -9,7 +9,7 @@ I am Robert Kris Laur, a Software Product Engineer & Cloud DevOps Engineer.
 ---
 - 💻 Started Software Development career **2021 summer**
 
-- 🔭 I’m currently working as Full Stack Developer
+- 🔭 I’m currently working as Software Product Engineer
 
 - ⚡ Favorite quote: **"Hard work beats talent when talent doesn't work hard"**
 # Experience
