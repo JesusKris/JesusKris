@@ -54,11 +54,3 @@ I am Robert Kris Laur, a Product Engineer & Cloud DevOps Engineer.
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" title="SQLite" height="40"/></a>
     <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" title="Sequelize.js" width="40" height="40"/></a>
 </p>
-
-# Projects
-
-## ⭐Check these out
-- [discord-bot](https://github.com/JesusKris/discord-bot) - My first ever real prod application, a Discord bot
-- [gitlab-pipelines](https://github.com/JesusKris/gitlab-pipelines) - Self hosted Gitlab CI/CD pipelines for a kubernetes microservice architecture, hosted on AWS
-- [bomberman](https://github.com/JesusKris/bomberman) - Recreation of a famous game called Bomberman using my own frontend framework
-- [vue-forum](https://github.com/JesusKris/vue-forum) - A forum created using Vue.js with users, posts, groups and websockets
